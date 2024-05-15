@@ -1,0 +1,41 @@
+li {font-size: 25px;
+color: blue;
+cursor: text;
+text-transform: uppercase;
+font-weight: 650;
+}
+head {transformation: capitalize;
+vertical-align: middle;
+}
+body {
+cursor: default ;
+background-color: turquise;
+}
+h1 {color: crimson;
+font-size: 35px;
+font-family: arial;
+cursor: help;
+position: relative;
+}
+table {color: deeppink;
+cursor:text;
+border-style: solid;
+font-size: 30px;
+}
+th {color: red;
+font-style: oblique;
+}
+td {font-family: arial;
+}
+p {font-family: tahoma;
+cursor: text;
+letter-spacing: 0,5 mm;
+position: relative;
+}
+alt { cursor: wait;
+}
+form {
+
+padding:
+
+15px 0;
